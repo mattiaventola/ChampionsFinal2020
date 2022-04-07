@@ -1,6 +1,6 @@
 # Sentiment Analysis of Tweets during 2020 Champions League Final:
 
-Data gathering using Twitter API in Azure, data management and sentiment analysis in Python.
+Data gathering using Twitter API in Azure virtual machine, data management and sentiment analysis in Python.
 
 Data Visualizations in Tableau at: https://public.tableau.com/app/profile/mattia.ventola.
 
