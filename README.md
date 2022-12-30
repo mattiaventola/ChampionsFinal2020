@@ -1,6 +1,6 @@
 # Sentiment Analysis of Tweets for 2020 Champions League Final:
 
-Rel time data gathering using Twitter API in Azure virtual machine, data management and sentiment analysis in Python.
+Real time data gathering using Twitter API in Azure virtual machine, data management and sentiment analysis in Python.
 
 Score of sentiment analysis compared then with player's score from whoscored.com, collected with webscraping
 
